@@ -1,0 +1,132 @@
+body {
+  margin: 0 0 0 0;
+  text-align: center;
+  font-family: cursive;
+  font-family: 'Roboto', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  padding-top: 100px;
+  font-family: 'Pacifico', cursive;
+  font-size: 4.5rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF
+}
+
+h3 {
+  color: #11999E;
+}
+
+.Middle-container {
+   margin: 100px 0 100px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  border: 0;
+  height: 200px;
+}
+
+.top_container {
+  background-color: #e8ffff;
+  margin: 0;
+  padding-top: 20px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 300px;
+}
+
+.title-p {
+  font-size: 2rem;
+  text-decoration: underline;
+  margin-top: 6px;
+  font-weight: normal;
+  color: #66BFBF
+}
+.skill-row {
+  width: 50%;
+  margin: 150px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+.esportsimg {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.esportsimg2 {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr {
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 5%;
+  border-color: grey;
+  margin: 50px auto 50px auto;
+  display: block;
+}
+.BUTTON_IGC {
+   background: #ABF6F6;
+   background-image: -webkit-linear-gradient(top, #ABF6F6, #0D5B5B);
+   background-image: -moz-linear-gradient(top, #ABF6F6, #0D5B5B);
+   background-image: -ms-linear-gradient(top, #ABF6F6, #0D5B5B);
+   background-image: -o-linear-gradient(top, #ABF6F6, #0D5B5B);
+   background-image: -webkit-gradient(to bottom, #ABF6F6, #0D5B5B);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 27px;
+   font-weight: 100;
+   padding: 29px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+
+   margin: 30px auto 100px auto;
+}
+
+.BUTTON_IGC:hover {
+   background: #45CECE;
+   border: solid #2ECECE 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.footer-link {
+  margin: 50px 30px 50px 30px;
+  display: inline-block;
+}
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+.copyright{
+  color: #EAF6F6;
+}
+.intro {
+  width: 30%;
+  margin: auto auto;
+  padding: 50px;
+}
